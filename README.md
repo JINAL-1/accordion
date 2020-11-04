@@ -8,7 +8,7 @@ Implemented :
 - data-target
 - data-toggle="collapse"
 - role
--data-parent
+- data-parent
 
 Text: Lorem Ipsum
 
